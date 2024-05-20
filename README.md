@@ -58,5 +58,3 @@ npm start
 
 * You can explore adding features like setting a maximum purchase quantity or implementing a more sophisticated pricing mechanism.
 * Consider integrating with a testnet faucet to provide users with test Ether for interacting with the dApp.
-
-This readme provides a basic guide to running the Chocolate Shop dApp locally. You can customize and extend it further based on your specific project setup and functionalities.
